@@ -1,0 +1,2 @@
+"Id","OwnerId","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","DataSourceId","CalendarType","DateHandlingType","StartField","EndField","DisplayField","AllDayFieldName","SobjectType","PublisherId","AccessLevel"
+"03Bf4000000MdMkEAK","005f4000002PEo1AAG","0","Shift Calendar","2018-05-20 01:16:58","005f4000002PEo1AAG","2018-05-20 01:16:58","005f4000002PEo1AAG","2018-05-20 01:16:58","","Internal_Public","Datetime","GW_Volunteers__Start_Date_Time__c","GW_Volunteers__Start_Date_Time__c","Name","","01If4000002COo0","",""
