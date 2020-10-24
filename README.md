@@ -1,1 +1,3 @@
-![Navy SEALs]<img src="https://some-img-host.com/1234567/image.png" width=300 align=right>
+<p align="center">
+  <img src="images/NavySEALS.png" width="50" title="hover text">
+</p>
