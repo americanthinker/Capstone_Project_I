@@ -1,4 +1,0 @@
-"Id","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","IsDynamic","Description"
-"0MJf4000005SqA2GAK","0","/s/notifications/notification","2018-05-20 01:16:58","005f4000002PEo1AAG","2018-05-20 01:16:58","005f4000002cd9IAAQ","2018-05-20 01:16:58","1","created dynamically upon subscription"
-"0MJf4000005SqA3GAK","0","/s/notifications/readstate","2018-05-20 01:16:58","005f4000002PEo1AAG","2018-05-20 01:16:58","005f4000002cd9IAAQ","2018-05-20 01:16:58","1","created dynamically upon subscription"
-"0MJf4000007ll08GAA","0","/s/chatter/mux","2019-02-02 00:31:01","005f400000424IOAAY","2019-02-02 00:31:01","005f4000002cd9IAAQ","2019-02-02 00:31:01","1","created dynamically upon subscription"
