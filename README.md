@@ -1,1 +1,2 @@
-![Navy SEALs](images/NavySEALs.png width="200" height="200")
+![Navy SEALs](i<img src="https://some-img-host.com/1234567/image.png" width=300 align=right>
+")
