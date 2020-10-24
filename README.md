@@ -1,1 +1,1 @@
-![Navy SEALs](images/NavySEALs.png)
+![Navy SEALs](images/NavySEALs.png = 100x100)
