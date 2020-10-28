@@ -5,8 +5,13 @@
 </p>
 
 # Setting the Stage (Background)
-The US Special Operations community is a diverse group of highly trained men and women dedicated to the cause of "[protecting and advancing U.S. policies and objectives across the international arena"](https://www.socom.mil/about).    This highly talented subset of the overall US population 
+The US Special Operations community is a diverse group of highly trained men and women dedicated to the cause of ["protecting and advancing U.S. policies and objectives across the international arena"](https://www.socom.mil/about).   The community is composed of Special Operations "tribes" from all branches of the Department of Defense to include the Navy SEALs, Army Green Berets, Air Force Pararesucmen, and Marine Raiders, among other specialized units.  This highly talented subset of the overall US population, at some point in their military career, makes the decision to "put down their ruck sack", "hang up their uniform" and transition into civlian life. 
 
-According to the [World Health Organization](https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries), road traffic injuries are the leading cause of death for persons aged 5-29 years. While improvements in automobile safety have significantly reduced the dangers of driving, more than 32,000 people are killed and, 2 million are injured each year from motor vehicle crashes in the US alone each year according to the [CDC](https://www.cdc.gov/vitalsigns/motor-vehicle-safety/index.html).
+As a former SEAL turned Data Scientist I partnered with [Elite Meet](https://elitemeetus.org/) - a 501(c)(3) non-profit Veteratn Service Organization dedicated to providing a post-military Special Operations network and connecting its members to leaders in the Corporate sector - to conduct an analysis on this group of veterans to paint a holistic picture of who they are and where they are headed.  This analysis answers the following questions:
+- Where does this post-military network live?
+- What is the composition (by tribe) of the overall community?
+- What are the descriptive charateristics of this group: Age, Education, XXX
+- How prepared is this group for the Corporate workforce?
+- What is the growth over time?
 
-As a resident in Denver, I was curious about how safe the roads are that I used to commute by bike each day.  I was curious to see if accidents are becoming more frequent over time (possibly due to the population growth in this city), where accidents most frequently occur, and what factors may contribute to or are at least correlated with accidents in this city.
+
