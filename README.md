@@ -23,3 +23,7 @@ I was granted access to an anonymized section of the Elite Meet (EM) membership 
 <p align="center">
   <img align="center" src="/images/Excel_cleaned.png" width="500" title="Data cleaning">
 </p>
+The dataset originally contained more than 50 features/columns, but after reviewing the data I was able to reduce the number of features to 34.  Here's a quick look at what the set looks like:
+<p align="center">
+  <img align="center" src="/images/data-shot.png" width="500" title="Data cleaning">
+</p>
