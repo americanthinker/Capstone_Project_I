@@ -5,5 +5,3 @@
   <img align="right" src="/images/PJ_pic.png" width="400" title="Air Force">
 
 </p>
-
-# Under Construction!
