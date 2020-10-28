@@ -17,5 +17,5 @@ As a former SEAL turned Data Scientist I partnered with [Elite Meet](https://eli
 # The Data
 I was granted access to an anonymized section of the Elite Meet (EM) membership database which consisted of 800+ entries of SOF veteran members.  This initial dataset was curated from the EM Salesforce instance, which in turn was collected from individual membership intake forms at time of EM application.  Because many of the intake form fields were free form, the dataset required an extensive amount of cleaning in order to conduct an accurate analysis.  As an example, something as simple as inputting a "Current Location" oftentimes included several variations: 
 <p align="center">
-  <img align="center" src="/images/Excel_cleaned.png" width="200" title="Data cleaning">
+  <img align="center" src="/images/Excel_cleaned.png" width="400" title="Data cleaning">
 </p>
