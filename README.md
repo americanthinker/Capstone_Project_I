@@ -1,1 +1,5 @@
-![Navy SEALs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.history.com%2Fnews%2Fnavy-seals-10-key-missions&psig=AOvVaw2mjciJ7-X9vkiSL_aCGoj0&ust=1603649604711000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiCorzqzewCFQAAAAAdAAAAABAK)
+<p align="center">
+  <img align="left" src="/images/NavySEALs.png" width="400" title="Navy SEALs">
+</p>
+
+# Under Construction!
