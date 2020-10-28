@@ -12,6 +12,6 @@ As a former SEAL turned Data Scientist I partnered with [Elite Meet](https://eli
 - What is the composition (by tribe) of the overall community?
 - What are the descriptive charateristics of this group: Age, Education, XXX
 - How prepared is this group for the Corporate workforce?
-- What is the growth over time?
+- What is the growth over time
 
 
