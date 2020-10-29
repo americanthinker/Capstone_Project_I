@@ -1,4 +1,4 @@
-# Special Operations Veteran Community: Their Story in Pictures
+# The Story of the Special Operations Veteran community: In Transition
 
 <p align="center">
   <img align="center" src="/images/NavySEALs.png" width="600" title="Navy SEALs">
