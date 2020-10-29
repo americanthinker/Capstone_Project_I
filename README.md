@@ -29,5 +29,5 @@ The dataset originally contained more than 50 features/columns, but after review
 
 ## Community Breakdown by Tribe
 <p align="center">
-  <img align="center" src="/images/SOF-Breakdown.png" width="800" title="SOF Tribes">
+  <img align="center" src="/images/SOF-Breakdown.png" width="1000" title="SOF Tribes">
 </p>
