@@ -29,3 +29,8 @@ The dataset originally contained more than 50 features/columns, but after review
 <p align="center">
   <img align="center" src="/images/Data-shot.png" width="500" title="Data cleaning">
 </p>
+
+## Community Breakdown by Tribe
+<p align="center">
+  <img align="center" src="/images/SOF-Tribes.png" width="500" title="SOF Tribes">
+</p>
