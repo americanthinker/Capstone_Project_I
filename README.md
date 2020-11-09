@@ -57,9 +57,9 @@ I provided two diagrams:
 2. Second one provides a holistic overview of the entire community at once  
   
 I realize that for someone unfamilar with the SOF variants that make up US Special Forces, some of the acronyms in the below charts might not make any sense, so I've created this brief, non-exhaustive glossary:  
-- SEAL: Sea, Air, Land (Navy commando)
-- Green Beret: aka Army Special Forces, the original SOF
-- Pilot: Army/Navy/Marine Corps flying a fixed wing aircracft, typically a jet, but could be an MC-130 or other SOF-specific platform
+- **SEAL**: Sea, Air, Land (Navy commando)
+- **Green Beret**: aka Army Special Forces, the original SOF
+- **Pilot**: Army/Navy/Marine Corps flying a fixed wing aircracft, typically a jet, but could be an MC-130 or other SOF-specific platform
 - Ranger: Army direct-action raid force
 - NEOD: Navy Explosive Ordnance Disposal, these guys disarm bombs and IEDs
 - SWCC: Special Warfare Combatant Crewman aka "boat drivers"
