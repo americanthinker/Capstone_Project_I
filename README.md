@@ -59,7 +59,7 @@ I provided two diagrams:
 I realize that for someone unfamilar with the SOF variants that make up US Special Forces, some of the acronyms in the below charts might not make any sense, so I've created this brief, non-exhaustive glossary:  
 
 <p align="center">
-  <img align="center" src="/images/Glossary.png" width="600" title="Glossary">
+  <img align="center" src="/images/Glossary.png" width="800" title="Glossary">
 </p> 
 
 <p align="center">
