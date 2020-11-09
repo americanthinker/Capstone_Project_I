@@ -29,7 +29,7 @@ The dataset originally contained more than 50 features/columns, but after review
 
 # Geographic Distribution
 
-**Challenge:**  
+<ins>**Challenge**</ins>  
 One of the first things that the CEO of Elite Meet wanted to know is how are the members geographically distributed?  One of the original ideas behind the Elite Meet brand was to establish regional chapters that would serve to support members in the local area.  The CEO wanted to get a good sense of where it made sense to push for regional chapters.  
 
 **Solution:**  
