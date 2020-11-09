@@ -53,8 +53,8 @@ Next on the list was providing the CEO with an understanding of the actual makeu
 
 #### <ins>Solution</ins>  
 I provided two diagrams:
-1. First one provides the SOF Tribe breakout by service (Navy, Army, Air Force, Marine Corps)
-2. Second one provides a holistic overview of the entire community at once  
+1. First chart provides the SOF Tribe breakout by service (Navy, Army, Air Force, Marine Corps)
+2. Second chart provides a holistic overview of the entire community at once  
   
 I realize that for someone unfamilar with the SOF variants that make up US Special Forces, some of the acronyms in the below charts might not make any sense, so I've created this brief, non-exhaustive glossary:  
 
@@ -63,7 +63,7 @@ I realize that for someone unfamilar with the SOF variants that make up US Speci
 </p> 
 
 <p align="center">
-  <img align="center" src="/images/Tribe_breakout.png" width="1000" title="Holistics Overview">
+  <img align="center" src="/images/Tribe_breakout.png" height="600" width="1000" title="Holistics Overview">
 </p>  
 
 <p align="center">
