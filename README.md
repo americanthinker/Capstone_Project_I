@@ -29,10 +29,10 @@ The dataset originally contained more than 50 features/columns, but after review
 
 # Geographic Distribution
 
-<ins>**Challenge**</ins>  
+#### <ins>Challenge</ins>  
 One of the first things that the CEO of Elite Meet wanted to know is how are the members geographically distributed?  One of the original ideas behind the Elite Meet brand was to establish regional chapters that would serve to support members in the local area.  The CEO wanted to get a good sense of where it made sense to push for regional chapters.  
 
-**Solution:**  
+#### <ins>Solution</ins>  
 I decided that a heat map, which displays the denisty of points on a map represented by color intensity (heat), would be a good way of visualizing the membership geogrpahic distribution.  I originally decided to work with Folium, which is a Python library with a Javascript backend that provides mutiple dynamic, interactive overlays.  However, after working with the library I realized that the weights function was not working which is a known issue with the library.  I ended up working with the Google Maps API, which required creating an account to get an API Key.  Below is the final result:
 
 <p align="center">
