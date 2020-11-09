@@ -55,6 +55,24 @@ Next on the list was providing the CEO with an understanding of the actual makeu
 I provided two diagrams:
 1. First one provides the SOF Tribe breakout by service (Navy, Army, Air Force, Marine Corps)
 2. Second one provides a holistic overview of the entire community at once  
+  
+I realize that for someone unfamilar with the SOF variants that make up US Special Forces, some of the acronyms in the below charts might not make any sense, so I've created this brief, non-exhaustive glossary:  
+- SEAL: Sea, Air, Land (Navy commando)
+- Green Beret: aka Army Special Forces, the original SOF
+- Pilot: Army/Navy/Marine Corps flying a fixed wing aircracft, typically a jet, but could be an MC-130 or other SOF-specific platform
+- Ranger: Army direct-action raid force
+- NEOD: Navy Explosive Ordnance Disposal, these guys disarm bombs and IEDs
+- SWCC: Special Warfare Combatant Crewman aka "boat drivers"
+- Raider: Marine Corps version of SOF
+- Helo Pilot: Army pilots flying rotary wing aircraft, typically from the Special Operations Aviation Regiment
+- PJ: Air Force Pararescueman, someone you want next to you in a gunfight
+- CCT: Air Force Combat Controller, experts in comms, air traffic control, and putting ordnance where you want it
+- PSYOPS: Army Psychological Operations, masters of influence and information warfare
+- Recon: Marine Corps unit tasked with gathering intelligence and providing support to conventional units, often the first ones in
+- EOD: Army Explosive Ordnance Disposal
+- SOWT: Air Force Special Operations Weather Technician (now changed to Special Reconnaissance), collect weather data in denied areas
+- JCU: Joint Communications Unit, communications experts
+- Civil Affairs: Army unit designed to win the hearts and minds of the local populace  
 
 <p align="center">
   <img align="center" src="/images/Tribe_breakout.png" width="1000" title="Holistics Overview">
