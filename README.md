@@ -42,8 +42,9 @@ Anyone familiar with the SOF community would not be surprised by this distributi
 <p float="left">
   <img src="/images/WC.png" width="500" title="West Coast distribution"/>
   <img src="/images/EC.png" width="500" title="East Coast distribution"/> 
-</p>
-                                                                               
+</p>  
+Admittedly, I do poke a little fun here at the East Coast distribution.  While it's obvious to someone familiar with SOF bases that the large clusters in the Virginia Beach area are SEALs and Navy pilots, the clusters in the Fayettville and Raleigh area are Green Berets, and the Wilmington and Jacksonville, NC clusters are Marine Raiders, it takes an Elite Meet insider to know that the cluster in the DC area is guys retiring out of the Pentagon or looking to work in the Fed Gov space and that the cluster in New York City is the Private Equity and Investment Banking crowd, which is and always has been a favorite industry of choice for SOF veterans.  
+
 ## Community Breakdown by Tribe
 <p align="center">
   <img align="center" src="/images/SOF-Breakdown.png" width="1000" title="SOF Tribes">
