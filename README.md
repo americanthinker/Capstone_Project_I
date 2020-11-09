@@ -6,7 +6,7 @@
 </p>  
   
   
-# Setting the Stage: Background Part I
+# Setting the Stage: Background 
 The US Special Operations community is a diverse group of highly trained men and women dedicated to the cause of ["protecting and advancing U.S. policies and objectives across the international arena"](https://www.socom.mil/about).   The community is composed of Special Operations Forces (SOF) "tribes" from all branches of the Department of Defense to include the Navy SEALs, Army Green Berets, Air Force Pararesucmen, Marine Raiders, and jet and helo pilots, among other specialized units.  This highly talented subset of the overall US population, at some point in their military career, makes the decision to "put down their ruck sack", "hang up their uniform" and transition into civlian life. 
 
 <p align="center">
