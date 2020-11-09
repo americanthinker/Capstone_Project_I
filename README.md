@@ -39,8 +39,8 @@ The dataset originally contained more than 50 features/columns, but after review
 Anyone familiar with the SOF community would not be surprised by this distribution.  Members are clustered around all of the major military bases housing SOF personnel - 1st Special Forces Group in Seattle, Navy SEALs and Navy pilots in San Diego and Virgina Beach, 5th Special Forces Group in Kentucky, 3rd Special Forces Group in North Carolina as well as the Raiders out of Camp Lejune, and the list goes on.  To get a better sense of the distributions on the coasts where the majority of members are concentrated I provided the following zoomed-in images:
 
 <p float="left">
-  <img src="/images/WC.png" width="400" title="West Coast distribution"/>
-  <img src="/images/EC.png" width="500" title="East Coast distribution"/> 
+  <img src="/images/WC.png" width="450" title="West Coast distribution"/>
+  <img src="/images/EC.png" width="450" title="East Coast distribution"/> 
 </p>
                                                                                
 ## Community Breakdown by Tribe
