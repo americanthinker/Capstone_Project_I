@@ -63,7 +63,7 @@ I realize that for someone unfamilar with the SOF variants that make up US Speci
 </p> 
 
 <p align="center">
-  <img align="center" src="/images/Tribe_breakout.png" width="1000" title="Holistics Overview">
+  <img align="center" src="/images/Tribe_breakout.png" height="600" width="1000" title="Holistics Overview">
 </p>  
 
 <p align="center">
