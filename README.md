@@ -57,8 +57,10 @@ I provided two diagrams:
 2.) Second one provides a holistic overview of the entire community at once  
 
 <p align="center">
+  <img align="center" src="/images/Tribe_breakout.png" width="1000" title="Holistics Overview">
+</p>  
+
+<p align="center">
   <img align="center" src="/images/SOF_Tribes.png" width="1000" title="SOF Tribes">
 </p>  
-<p align="center">
-  <img align="center" src="/images/Tribe_breakout.png" width="1000" title="Holistics Overview">
-</p>
+
