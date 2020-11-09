@@ -56,7 +56,11 @@ I provided two diagrams:
 1. First chart provides the SOF Tribe breakout by service (Navy, Army, Air Force, Marine Corps)
 2. Second chart provides a holistic overview of the entire community at once  
   
-I realize that for someone unfamilar with the SOF variants that make up US Special Forces, some of the acronyms in the below charts might not make any sense, so I've created this brief, non-exhaustive glossary:  
+For those unfamilar with the several SOF variants that make up US Special Forces, some of the acronyms in the below charts might not make any sense, so I've created a brief non-exhaustive glossary below.  Also, for standardization across graphics the following color chart will is used in keeping with traditional military coloring of the service branches:  
+- Army = Green 
+- Navy = Blue
+- Air Force = Sky Blue
+- Marine Corps = Red
 
 <p align="center">
   <img align="center" src="/images/Glossary.png" width="800" title="Glossary">
