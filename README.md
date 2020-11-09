@@ -53,8 +53,8 @@ Next on the list was providing the CEO with an understanding of the actual makeu
 
 #### <ins>Solution</ins>  
 I provided two diagrams:
-1.) First one provides the SOF Tribe breakout by service (Navy, Army, Air Force, Marine Corps)
-2.) Second one provides a holistic overview of the entire community at once  
+1. First one provides the SOF Tribe breakout by service (Navy, Army, Air Force, Marine Corps)
+2. Second one provides a holistic overview of the entire community at once  
 
 <p align="center">
   <img align="center" src="/images/Tribe_breakout.png" width="1000" title="Holistics Overview">
