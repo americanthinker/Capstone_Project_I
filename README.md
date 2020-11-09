@@ -37,11 +37,10 @@ The dataset originally contained more than 50 features/columns, but after review
   <img align="center" src="/images/National.png" width="1000" title="National Distribution">
 </p>  
                                                                                
-Anyone familiar with the SOF community would not be surprised by this distribution.  Members are clustered around all of the major military bases housing SOF personnel - 1st Special Forces Group in Seattle, Navy SEALs and Navy pilots in San Diego and Virgina Beach, 5th Special Forces Group in Kentucky, 3rd Special Forces Group in North Carolina as well as the Raiders out of Camp Lejune, and the list goes on.  To get a better sense of the distributions on the coasts where the majority of members are concentrated I provided the following zoomed-in images:
+Anyone familiar with the SOF community would not be surprised by this distribution.  Members are clustered around all of the major military bases housing SOF personnel - 1st Special Forces Group in Seattle, Navy SEALs and Navy pilots in San Diego and Virgina Beach, 5th Special Forces Group in Kentucky, 3rd Special Forces Group in North Carolina as well as the Raiders out of Camp Lejune, and the list goes on.  To get a better sense of the East Coast distribution, which is a little busier than the West Coast map, I provided the following zoomed-in image:
 
-<p float="left">
-  <img src="/images/WC.png" width="500" title="West Coast distribution"/>
-  <img src="/images/EC.png" width="500" title="East Coast distribution"/> 
+<p align="center">
+  <img align="center" src="/images/EC.png" width="800" title="EC Distribution">
 </p>  
 Admittedly, I do poke a little fun here at the East Coast distribution.  While it's obvious to someone familiar with SOF bases that the large clusters in the Virginia Beach area are SEALs and Navy pilots, the clusters in the Fayettville and Raleigh area are Green Berets, and the Wilmington and Jacksonville, NC clusters are Marine Raiders, it takes an Elite Meet insider to know that the cluster in the DC area is guys retiring out of the Pentagon or looking to work in the Fed Gov space and that the cluster in New York City is the Private Equity and Investment Banking crowd, which is and always has been a favorite industry of choice for SOF veterans.  
 
