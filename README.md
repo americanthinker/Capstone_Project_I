@@ -46,7 +46,16 @@ Anyone familiar with the SOF community would not be surprised by this distributi
 </p>  
 Admittedly, I do poke a little fun here at the East Coast distribution.  While it's obvious to someone familiar with SOF bases that the large clusters in the Virginia Beach area are SEALs and Navy pilots, the clusters in the Fayettville and Raleigh area are Green Berets, and the Wilmington and Jacksonville, NC clusters are Marine Raiders, it takes an Elite Meet insider to know that the cluster in the DC area is guys retiring out of the Pentagon or looking to work in the Fed Gov space and that the cluster in New York City is the Private Equity and Investment Banking crowd, which is and always has been a favorite industry of choice for SOF veterans.  
 
-## Community Breakdown by Tribe
+# Community Makeup (by Tribe)  
+
+#### <ins>Challenge</ins>  
+Next on the list was providing the CEO with an understanding of the actual makeup of the Elite Meet community, specifically by SOF "Tribe".  There are many different SOF variants and members were given free reign to describe their primary job duties at the time of application and therefore exact tribal classification was not readily apparent to the casual observer.  A better understanding of the community makeup allows the CEO to ensure that outreach efforts are balanced across the Defense service branches and that she can communicate an accurate picture of the community to potential hiring partners/managers.  
+
+#### <ins>Solution</ins>  
+I provided two diagrams:
+1.) First one provides the SOF Tribe breakout by service (Navy, Army, Air Force, Marine Corps)
+2.) Second one provides a holistic overview of the entire community at once
+
 <p align="center">
   <img align="center" src="/images/SOF-Breakdown.png" width="1000" title="SOF Tribes">
 </p>
