@@ -13,7 +13,7 @@ The US Special Operations community is a diverse group of highly trained men and
   <img align="center" src="/images/mil-civ.png" width="200" height="250" title="Mil to Civ">
 </p>
 
-As a former SEAL turned Data Scientist I partnered with [Elite Meet](https://elitemeetus.org/) - a 501(c)(3) non-profit Veteratn Service Organization dedicated to providing a post-military SOF network and connecting its members to leaders in the Corporate sector - to conduct an analysis on this group of veterans to paint a holistic picture of who they are and where they are headed.  This analysis answers the following questions:
+As a former SEAL turned Data Scientist I partnered with [Elite Meet](https://elitemeetus.org/) - a 501(c)(3) non-profit Veteran Service Organization dedicated to providing a post-military SOF network and connecting its members to leaders in the Corporate sector - to conduct an analysis on this group of veterans to paint a holistic picture of who they are and where they are headed.  This analysis answers the following questions:
 - Where does this post-military network live?
 - What is the composition (by tribe) of the overall community?
 - What are the descriptive charateristics of this group: Age, Education, XXX
