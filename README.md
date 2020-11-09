@@ -27,6 +27,13 @@ I was granted access to an anonymized section of the Elite Meet (EM) membership 
 </p>
 The dataset originally contained more than 50 features/columns, but after reviewing the data I was able to reduce the number of features to 34.  Here's a quick look at what the set looks like:
 
+# Geographic Distribution
+
+One of the first things that the CEO of Elite Meet wanted to know is how are the members geographically distributed?  One of the original ideas behind the Elite Meet brand was to establish regional chapters that would serve to support members in the local area.  The CEO wanted to get a good sense of where it made sense to push for regional chapters.  I originally decided to work with Folium which is a library for Python with a Javascript backend that provides mutiple dynamic, interactive overlays.  However, after working with the library I realized that the weights function was not working which is a known issue with the library.  I ended up working with the Google Maps API, which required creating an account to get an API Key.  Below is the final result:
+<p align="center">
+  <img align="center" src="/images/National.png" width="1000 title="Mil to Civ">
+</p>
+
 ## Community Breakdown by Tribe
 <p align="center">
   <img align="center" src="/images/SOF-Breakdown.png" width="1000" title="SOF Tribes">
