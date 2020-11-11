@@ -65,8 +65,8 @@ For those unfamilar with the several SOF variants that make up US Special Forces
 - Navy = Blue
 - Air Force = Sky Blue
 - Marine Corps = Red
-- Joint = Purple (mix of branches)
-
+- Joint = Purple (mix of branches)  
+<h2 align="center" SOF Glossary</h2>
 <p align="center">
   <img align="center" src="/images/Glossary.png" width="800" title="Glossary">
 </p> 
