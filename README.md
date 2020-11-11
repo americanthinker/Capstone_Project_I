@@ -35,8 +35,6 @@ One of the first things that the CEO of Elite Meet wanted to know is how are the
 #### <ins>Solution</ins>  
 I decided that a heat map, which displays the denisty of points on a map represented by color intensity (heat), would be a good way of visualizing the membership geogrpahic distribution.  I originally decided to work with Folium, which is a Python library with a Javascript backend that provides mutiple dynamic, interactive overlays.  However, after working with the library I realized that the weights function was not working which is a known issue with the library.  I ended up working with the Google Maps API, which required creating an account to get an API Key.  Below is the final result:
 
-[National Distribution](https://americanthinker.github.io/em_map.github.io/)
-
 <p align="center">
   <img align="center" src="/images/National.png" width="1000" title="National Distribution">
 </p>  
@@ -47,6 +45,9 @@ Anyone familiar with the SOF community would not be surprised by this distributi
   <img align="center" src="/images/EC.png" width="800" title="EC Distribution">
 </p>  
 Admittedly, I do poke a little fun here at the East Coast distribution.  While it's obvious to someone familiar with SOF bases that the large clusters in the Virginia Beach area are SEALs and Navy pilots, the clusters in the Fayettville and Raleigh area are Green Berets, and the Wilmington and Jacksonville, NC clusters are Marine Raiders, it takes an Elite Meet insider to know that the cluster in the DC area is guys retiring out of the Pentagon or looking to work in the Fed Gov space and that the cluster in New York City is the Private Equity and Investment Banking crowd, which is and always has been a favorite industry of choice for SOF veterans.  
+
+For an interactive solution to visualizing the national distribution of EM members click on the link below:  
+[National Distribution](https://americanthinker.github.io/em_map.github.io/)  
 
 # Community Makeup (by Tribe)  
 
