@@ -70,8 +70,8 @@ For those unfamilar with the several SOF variants that make up US Special Forces
 <p align="center">
   <img align="center" src="/images/Glossary.png" width="800" title="Glossary">
 </p>   
-  
-This first chart breaks out the community by tribe within their respective service branches.  For example, 46.7% of all SOF Navy personnel are SEALs while 13.7% are SWCC.  No real suprises here with regard to the community makeup. 
+\
+This first chart breaks out the community by tribe within their respective service branches.  For example, 46.7% of all SOF Navy personnel are SEALs while 13.7% are SWCC.  No real suprises here with regard to the community makeup.\
 <p align="center">
   <img align="center" src="/images/Tribes_by_Service.png" height="600" width="1000" title="Holistics Overview">
 </p>  
