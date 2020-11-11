@@ -35,6 +35,8 @@ One of the first things that the CEO of Elite Meet wanted to know is how are the
 #### <ins>Solution</ins>  
 I decided that a heat map, which displays the denisty of points on a map represented by color intensity (heat), would be a good way of visualizing the membership geogrpahic distribution.  I originally decided to work with Folium, which is a Python library with a Javascript backend that provides mutiple dynamic, interactive overlays.  However, after working with the library I realized that the weights function was not working which is a known issue with the library.  I ended up working with the Google Maps API, which required creating an account to get an API Key.  Below is the final result:
 
+[National Distribution](https://americanthinker.github.io/em_map.github.io/)
+
 <p align="center">
   <img align="center" src="/images/National.png" width="1000" title="National Distribution">
 </p>  
