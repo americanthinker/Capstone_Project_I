@@ -69,11 +69,16 @@ For those unfamilar with the several SOF variants that make up US Special Forces
 <H1 align="center" style="font-family:georgia;"> SOF Glossary</H1>
 <p align="center">
   <img align="center" src="/images/Glossary.png" width="800" title="Glossary">
-</p> 
-
+</p>   
+  
+This first chart breaks out the community by tribe within their respective service branches.  For example, 46.7% of all SOF Navy personnel are SEALs while 13.7% are SWCC.  No real suprises here with regard to the community makeup. 
 <p align="center">
   <img align="center" src="/images/Tribes_by_Service.png" height="600" width="1000" title="Holistics Overview">
 </p>  
+  
+This second chart provides both a side-by-side bar chart comparison of raw counts, as well as a "Tree Map" which shows proportionality in a different visual style.  Two points to note here.  
+- Given the size of the Army Special Forces, one should expect about a 3:1 ratio of Army to Navy personnel in these charts.  But, given that Elite Meet was originally founded by a Navy SEAL and SWCC member, much of the initial community was comprised of Navy personnel given the word-of-mouth nature of recruitement.  As you'll see in one of the following charts, Army personnel do start to pick up their numbers in more recent months, but even still, they are vastly underrepresented in the Elite Meet community given their associated active duty population size.  
+- Second point to note is that about 20% (1 in 5 members) of the community are fighter and helo pilots, which is far more than I would have originally assumed.  I'm not sure what the total numbers are for the pilot communities within the Department of Defense, so perhaps 20% is right where they should be, but either way their healthy membership numbers indicates that the word is out within the pilot community that Elite Meet is a good network to be a part of.  
 
 <p align="center">
   <img align="center" src="/images/SOF_Tribes.png" width="1000" title="SOF Tribes">
