@@ -111,7 +111,7 @@ The key takeaway here for the Elite Meet CEO is that she is working with two dis
 #### Education Levels  
 So how educated (formally) are the veterans from the Elite Meet community?  Surprisingly enough (to me) - very. 
 <p align="center">
-  <img align="center" src="/images/Education_Levels.png" width="600" title="Education">
+  <img align="center" src="/images/Education_Levels.png" width="1000" title="Education">
 </p> 
 
 <table>
