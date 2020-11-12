@@ -183,7 +183,7 @@ Except for the obvious "batch uploads" where it appears that several members wer
 <p align="center">
   <img align="center" src="/images/Growth_by_branch.png" width="1000" title="Growth by branch">
 </p>
-This graph shows growth over the same time period, however, it's now broken out by proportion of the four service branches - Army, Navy, Air Force, and Marine Corps.  The takeaway here is that the Navy is largely overrepresented and the Air Force vastly underrepresented within the organization.  A cursory review of total SOF within each branch (research can be conducted on [Wikipedia](www.wikipedia.org)) indicates that, proportionally speaking, the branches should break out into the following ratios:  
+This graph shows growth over the same time period, however, it's now broken out by proportion of the four service branches - Army, Navy, Air Force, and Marine Corps.  The takeaway here is that the Navy is largely overrepresented and the Air Force vastly underrepresented within the organization.  A cursory review of total SOF within each branch (research can be conducted on [Wikipedia](http://www.wikipedia.org)) indicates that, proportionally speaking, the branches should break out into the following ratios:  
   
   
 - Navy: 1
