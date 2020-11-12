@@ -142,4 +142,8 @@ As an aside, I did a quick comparison of Degree attainment (Undergrad and Grad) 
 So where do these highly educated and well-experienced group of individuals want to work?  Listen up Corporate America, below are the answers to the test:
 <p align="center">
   <img align="center" src="/images/TargetIndustries.png" width="1000" title="Target Industries">
-</p> 
+</p>  
+Top Three target industries are:
+- Consulting: 17%
+- Entreprenuership: 12.3%
+- Tech: 11%
