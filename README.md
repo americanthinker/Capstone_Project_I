@@ -115,10 +115,12 @@ So how educated (formally) are the veterans from the Elite Meet community?  Surp
 </p>  
 This is a shockingly educated group of individuals.  As a group, they are double the national proportion in every category, including Undergraduate degree attainment, Graduate degree attainment, and percentage of MBAs attained.  Almost 1 out of every 3 veterans in this group has an advanced degree, with less than 10% who have no degree at all.  Combining their years of experience (typically in high stress leadership roles) with their educational background, is a powerful combination and makes this a highly attractive talent pool for prospective employers.  
 
-I also thought it might be interesting to see which graduate programs this group is attending.  With such a high rate of graduate education, I was curious to see if these degrees were obtained through "degree mill" programs.  The word cloud below shows the opposite:
+&nbsp;&nbsp;I also thought it might be interesting to see which graduate programs this group is attending.  With such a high rate of graduate education, I was curious to see if these degrees were obtained through "degree mill" programs.  The word cloud below shows the opposite:
 <p align="center">
   <img align="center" src="/images/Grad_Schools.png" width="800" title="Grad Schools">
 </p>  
+
+As an aside, I did a quick comparison of Degree attainment (Undergrad and Grad) broken out by branch.  The Marine Corps and Air Force lead the way in both categories, in both cases trouncing the Navy.  I have a Navy background so I wasn't terribly pleased to see these results...  
 
 <table>
 <tr><th>% of Undergrad Degrees: By Branch </th><th>% of Grad Degrees: By Branch</th></tr>
@@ -141,7 +143,6 @@ I also thought it might be interesting to see which graduate programs this group
 | Navy|26.5% |
 
 </td></tr> </table>  
-As an aside, I did a quick comparison of Degree attainment (Undergrad and Grad) broken out by branch.  The Marine Corps and Air Force lead the way in both categories, in both cases trouncing the Navy.  I have a Navy background so I wasn't terribly pleased to see these results...
 
 #### Target Industries
 So where do these highly educated and well-experienced group of individuals want to work?  Listen up Corporate America, below are the answers to the test:
