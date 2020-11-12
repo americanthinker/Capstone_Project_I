@@ -87,16 +87,6 @@ This second chart provides both a side-by-side bar chart comparison of raw count
 </p>  
 \  
 
-| Branch                            |Percent of Total|
-|-----------------------------------|----------------|
-| Marine Corps                      |82.0%  |
-| Air Force                         |80.3% |
-| Army                              |71.0%  |
-| Navy                              |69.5% |
-  
-+50
-Space between text marks the beginning and end of particular types of content. Try this:
-
 <table>
 <tr><th>% of Undergrad Degrees: By Branch </th><th>% of Grad Degrees: By Branch</th></tr>
 <tr><td>
