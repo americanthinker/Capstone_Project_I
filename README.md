@@ -98,12 +98,15 @@ This second chart provides both a side-by-side bar chart comparison of raw count
 Space between text marks the beginning and end of particular types of content. Try this:
 
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th>% of Undergrad Degrees: By Branch </th><th>% of Grad Degrees: By Branch</th></tr>
 <tr><td>
 
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
+|Branch| Percent |
+|------|---------|
+| Marine Corps|82.0%  |
+| Air Force|80.3% |
+| Army|71.0%  |
+| Navy|69.5% |
 
 </td><td>
 
