@@ -32,6 +32,7 @@ To tackle this challenging (messy) dataset I used the following tools for the ta
 <p align="center">
   <img align="center" src="/images/Tools.png" width="300" title="Tools">
 </p>   
+
 - Data Cleaning: Excel + pandas combo
 - Data Analysis + Plotting: Jupyter Notebooks, pandas, matplotlib
 - Interactive Viz: Plotly
