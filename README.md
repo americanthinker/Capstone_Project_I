@@ -104,7 +104,7 @@ To begin, we start with a distribution of the years of experience found within t
 </p>  
 We can clearly see that this distribution is bimodal, with the peaks located at the 10-year and 20-year marks, and a valley between 12 - 18 years.  This bimodal distribution is explained by the 20-year requirement for Active Duty military retirement.  For most in the military, the 10-year mark is an inflection point, where one must make the decision to break with the military and pursue a civilian career or stick it out for the full 20 as a "lifer".   This inflection point is visually displayed in the chart below:  
 <p align="center">
-  <img align="center" src="/images/YearsExperience_Bucket.png" width="500" title="Years of Exp Bucket">
+  <img align="center" src="/images/YearsExperience_Bucket.png" width="400" title="Years of Exp Bucket">
 </p> 
 
 <table>
