@@ -93,5 +93,22 @@ This second chart provides both a side-by-side bar chart comparison of raw count
 | Air Force                         |80.3% |
 | Army                              |71.0%  |
 | Navy                              |69.5% |
+  
++50
+Space between text marks the beginning and end of particular types of content. Try this:
 
+<table>
+<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><td>
 
+|Table 1| Middle | Table 2|
+|--|--|--|
+|a| not b|and c |
+
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
