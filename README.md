@@ -110,8 +110,11 @@ Space between text marks the beginning and end of particular types of content. T
 
 </td><td>
 
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
+|Branch| Percent |
+|------|---------|
+| Air Force|43.9%  |
+| Marine Corps|36.1% |
+| Army|28.1%  |
+| Navy|26.5% |
 
 </td></tr> </table>
