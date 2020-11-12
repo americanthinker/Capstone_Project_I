@@ -85,7 +85,23 @@ This second chart provides both a side-by-side bar chart comparison of raw count
 <p align="center">
   <img align="center" src="/images/SOF_Tribes.png" width="1000" title="SOF Tribes">
 </p>  
-\  
+  
+# Individual Stats   
+
+#### <ins>Challenge</ins>
+It's now time to turn to the individuals that make up this community.  The CEO wanted to know some basic statistics on the following:  
+- Years of Experience 
+- Education Levels 
+- Target Industries
+
+#### <ins>Solution</ins>  
+The following graphs/charts begin to paint a picture of what a veteran from this community looks like, with some interesting suprises along the way.
+
+#### Years of Experience  
+To begin, we start with a distribution of the years of experience found within the community.
+<p align="center">
+  <img align="center" src="/images/Years_Experience.png" width="1000" title="SOF Tribes">
+</p>  
 
 <table>
 <tr><th>% of Undergrad Degrees: By Branch </th><th>% of Grad Degrees: By Branch</th></tr>
