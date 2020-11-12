@@ -174,14 +174,21 @@ This information is important in two ways.
 2. Hiring managers and recruiters who have access to this talent pool now have an idea of what this group of veterans are interested and can act accordingly.    
 
 # Marketing 
-As the final part of this analysis, I chose to provide the Elite Meet CEO with an idea of how the organization has grown over time, what the makeup of that growth looked like (from a service branch perspective), and which of the "marketing" channels are most effective in bringing in new members.  First a look at growth over time from the last two years:
+As the final part of this analysis, I chose to provide the Elite Meet CEO with an idea of how the organization has grown over time, what the makeup of that growth looks like (from a service branch perspective), and which of the "marketing" channels are most effective in bringing in new members.  First a look at growth over time from the last two years:
 <p align="center">
   <img align="center" src="/images/Growth_over_time.png" width="1000" title="Growth over time">
 </p>  
+Except for the obvious "batch uploads" where it appears that several members were added to the database on a single day, likely due to being backed up, the growth is linear over time, with approximately 30 members added per month.  Without a clear understanding of how many SOF professionals are leaving the service every month, it's hard to gauge if the Elite Meet growth level is keeping up.  I suspect though, that there is a lot of opportunity for additional organizational growth.  
 
 <p align="center">
   <img align="center" src="/images/Growth_by_branch.png" width="1000" title="Growth by branch">
 </p>
+This graph shows growth over the same time period, however, it's now broken out by proportion of the four service branches - Army, Navy, Air Force, and Marine Corps.  The takeaway here is that the Navy is largely overrepresented and the Air Force vastly underrepresented within the organization.  A cursory review of total SOF within each branch (research can be conducted on [Wikipedia](www.wikipedia.org)) indicates that, proportionally speaking, the branches should break out into the following ratios:  
+- Navy: 1
+- Air Force: 2
+- Army: 3
+- Marine Corps: 0.33  
+
 
 <p align="center">
   <img align="center" src="/images/Marketing.png" width="600" title="Channels">
