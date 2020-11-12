@@ -99,7 +99,7 @@ This second chart provides both a side-by-side bar chart comparison of raw count
   <img align="center" src="/images/SOF_Tribes.png" width="1000" title="SOF Tribes">
 </p>  
   
-# Individual Stats   
+# Experience, Education and Target Industry
 
 #### <ins>Challenge</ins>
 It's now time to turn to the individuals that make up this community.  The CEO wanted to know some basic statistics on the following:  
