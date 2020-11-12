@@ -137,3 +137,9 @@ This is a shockingly educated group of individuals.  As a group, they are double
 
 </td></tr> </table>  
 As an aside, I did a quick comparison of Degree attainment (Undergrad and Grad) broken out by branch.  The Marine Corps and Air Force lead the way in both categories, in both cases trouncing the Navy.  I have a Navy background so I wasn't terribly pleased to see these results...
+
+#### Target Industries
+So where do these highly educated and well-experienced group of individuals want to work?  Listen up Corporate America, below are the answers to the test:
+<p align="center">
+  <img align="center" src="/images/TargetIndustries.png" width="1000" title="Target Industries">
+</p> 
