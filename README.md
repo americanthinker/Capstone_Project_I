@@ -119,6 +119,7 @@ This is a shockingly educated group of individuals.  As a group, they are double
 <p align="center">
   <img align="center" src="/images/Grad_Schools.png" width="800" title="Grad Schools">
 </p>  
+Far from being a "degree mill" the Naval Postgraduate School based out of Monterey, California is stands out predominantly in this mural.  But a close inspection also reveals several Top Ten MBA programs as well as other highly reputable schools such as Harvard Kennedy's school of Government, John Hopkins, and Georgetown among others.  
 
 As an aside, I did a quick comparison of Degree attainment (Undergrad and Grad) broken out by branch.  The Marine Corps and Air Force lead the way in both categories, in both cases trouncing the Navy.  I have a Navy background so I wasn't terribly pleased to see these results...  
 
