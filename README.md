@@ -171,4 +171,18 @@ Top Three target industries are:
 
 This information is important in two ways.  
 1. The Elite Meet CEO now has an idea of which industries/companies to target outreach efforts to when setting up interviews for Elite Meet members.  The big consulting firms (Deloitte, Accenture, BCG, etc.) should be at the top of her list.  All of this data can also be used for targeted marketing campagins which highlight the general traits of this talent pool directed at companies looking to hire. 
-2. Hiring managers and recruiters who have access to this talent pool now have an idea of what this group of veterans are interested and can act accordingly.  
+2. Hiring managers and recruiters who have access to this talent pool now have an idea of what this group of veterans are interested and can act accordingly.    
+
+# Marketing 
+As the final part of this analysis, I chose to provide the Elite Meet CEO with an idea of how the organization has grown over time, what the makeup of that growth looked like (from a service branch perspective), and which of the "marketing" channels are most effective in bringing in new members.  First a look at growth over time from the last two years:
+<p align="center">
+  <img align="center" src="/images/Growth_over_time.png" width="1000" title="Growth over time">
+</p>  
+
+<p align="center">
+  <img align="center" src="/images/Growth_by_branch.png" width="1000" title="Growth by branch">
+</p>
+
+<p align="center">
+  <img align="center" src="/images/Marketing.png" width="600" title="Channels">
+</p>
