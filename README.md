@@ -85,8 +85,10 @@ This second chart provides both a side-by-side bar chart comparison of raw count
 <p align="center">
   <img align="center" src="/images/SOF_Tribes.png" width="1000" title="SOF Tribes">
 </p>  
+\  
+
 | Branch                            |Percent of Total|
-|------------------------------------|----|
+|-----------------------------------|----------------|
 | Marine Corps                      |82.0%  |
 | Air Force                         |80.3% |
 | Army                              |71.0%  |
