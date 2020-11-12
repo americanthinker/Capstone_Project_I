@@ -23,12 +23,21 @@ As a former SEAL turned Data Scientist I partnered with [Elite Meet](https://eli
 # The Data
 I was granted access to an anonymized section of the Elite Meet (EM) membership database which consisted of 750+ entries of SOF veteran members.  This initial dataset was curated from the EM Salesforce instance, which in turn was collected from individual membership intake forms at time of EM application.  Because many of the intake form fields were free form, the dataset required an extensive amount of cleaning in order to conduct an accurate analysis.  As an example, something as simple as inputting a "Current Location" oftentimes included several variations, as shown in the figure below: 
 
-<p float="left">
-  <img src="/images/Excel_cleaned.png" width="400" />
-  <img src="/images/Tools.png" width="400" /> 
-</p>  
+<p align="center">
+  <img align="center" src="/images/Excel_cleaned.png" width="500" title="Data cleaning">
+</p>
 
-The dataset originally contained more than 50 features/columns, but after reviewing the data I was able to reduce the number of features to 34.  Here's a quick look at what the set looks like:
+#### Tools of the Trade 
+To tackle this challenging (messy) dataset I used the following tools for the task:
+<p align="center">
+  <img align="center" src="/images/Tools.png" width="300" title="Tools">
+</p>   
+- Data Cleaning: Excel + pandas combo
+- Data Analysis + Plotting: Jupyter Notebooks, pandas, matplotlib
+- Interactive Viz: Plotly
+- Storage and presentation: Github + markdown
+
+The dataset originally contained more than 50 features/columns, but after reviewing the data I was able to reduce the number of features to 32. 
 
 # Geographic Distribution
 
