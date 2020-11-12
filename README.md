@@ -143,7 +143,8 @@ So where do these highly educated and well-experienced group of individuals want
 <p align="center">
   <img align="center" src="/images/TargetIndustries.png" width="1000" title="Target Industries">
 </p>  
-Top Three target industries are:
+Top Three target industries are:  
+
 - Consulting: 17%
 - Entreprenuership: 12.3%
 - Tech: 11%
