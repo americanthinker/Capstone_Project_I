@@ -105,6 +105,13 @@ To begin, we start with a distribution of the years of experience found within t
 We can clearly see that this distribution is bimodal, with the peaks located at the 10-year and 20-year marks, and a valley between 12 - 18 years.  This bimodal distribution is explained by the 20-year requirement for Active Duty military retirement.  For most in the military, the 10-year mark is an inflection point, where one must make the decision to break with the military and pursue a civilian career or stick it out for the full 20 as a "lifer".   This inflection point is visually displayed in the chart below:  
 <p align="center">
   <img align="center" src="/images/YearsExperience_Bucket.png" width="400" title="Years of Exp Bucket">
+</p>  
+The key takeaway here for the Elite Meet CEO is that she is working with two distinct sub-groups within the overall population, each with different needs.  The "less than 12 year" crowd is going to have different salary requirements and runway than will the crowd with 17+ years of experience.  Decisions around resourcing and offerings should take the needs of these groups into account.   
+
+#### Education Levels  
+So how educated (formally) are the veterans from the Elite Meet community?  Surprisingly enough (to me) - very. 
+<p align="center">
+  <img align="center" src="/images/Education_Levels.png" width="600" title="Education">
 </p> 
 
 <table>
