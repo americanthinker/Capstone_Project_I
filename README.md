@@ -114,6 +114,7 @@ So how educated (formally) are the veterans from the Elite Meet community?  Surp
   <img align="center" src="/images/Education_Levels.png" width="1000" title="Education">
 </p> 
 
+<center>
 <table>
 <tr><th>% of Undergrad Degrees: By Branch </th><th>% of Grad Degrees: By Branch</th></tr>
 <tr><td>
@@ -135,3 +136,4 @@ So how educated (formally) are the veterans from the Elite Meet community?  Surp
 | Navy|26.5% |
 
 </td></tr> </table>
+</center>
