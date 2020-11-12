@@ -148,6 +148,7 @@ Top Three target industries are:
 - Consulting: 17%
 - Entreprenuership: 12.3%
 - Tech: 11%  
+
 This information is important in two ways.  
 1. The Elite Meet CEO now has an idea of which industries/companies to target outreach efforts to when setting up interviews for Elite Meet members.  The big consulting firms (Deloitte, Accenture, BCG, etc.) should be at the top of her list.  All of this data can also be used in 
 2. Hiring managers and recruiters who have access to this talent pool now have an idea of what this group of veterans are interested and can act accordingly.  
