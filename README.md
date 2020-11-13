@@ -184,12 +184,12 @@ Except for the obvious "batch uploads" where it appears that several members wer
   <img align="center" src="/images/Growth_by_branch.png" width="1000" title="Growth by branch">
 </p>
 This graph shows growth over the same time period, however, it's now broken out by proportion of the four service branches - Army, Navy, Air Force, and Marine Corps.  The takeaway here is that the Navy is largely overrepresented and the Air Force vastly underrepresented within the organization.  A cursory review of total SOF personnel within each branch (research can be conducted on http://www.wikipedia.org) indicates that, proportionally speaking, the branches should break out into the following ratios:  
-  
-  
+   
 - Navy: 1
 - Air Force: 2
 - Army: 3
-- Marine Corps: 0.33  
+- Marine Corps: 0.33.  
+
 Meaning that for every 1 Navy member, we should see 2 Air Force, 3 Army, and 1/3 of a Marine Corps member.  These ratios clearly don't hold up in the graph above.  The Air Force has very low membership rates, considering their overall Active Duty SOF population, and the Army, even though they have the most members in the organization, should have close to triple their current numbers.  The easiest explanation for this disparity is that Elite Meet was found by a Navy SEAL and SWCC member largely by word of mouth.  So the inter-service cross pollination did not start taking hold until recent months. 
 
 <p align="center">
