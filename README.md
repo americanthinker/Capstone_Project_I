@@ -49,7 +49,9 @@ One of the first things that the CEO of Elite Meet wanted to know is how are the
 I decided that a heat map, which displays the denisty of points on a map represented by color intensity (heat), would be a good way of visualizing the membership geogrpahic distribution.  I originally decided to work with Folium, which is a Python library with a Javascript backend that provides mutiple dynamic, interactive overlays.  However, after working with the library I realized that the weights function was not working which is a known issue with the library.  I ended up working with the Google Maps API, which required creating an account to get an API Key.  Below is the final result:
 
 <p align="center">
-  <img align="center" src="/images/National.png" width="1000" title="National Distribution">
+  <a href="https://americanthinker.github.io/em_map.github.io/">
+  <img align="center" src="/images/National_Dist.png" width="1000" title="National Distribution">
+  </a>
 </p>  
                                                                                
 Anyone familiar with the SOF community would not be surprised by this distribution.  Members are clustered around all of the major military bases housing SOF personnel - 1st Special Forces Group in Seattle, Navy SEALs and Navy pilots in San Diego and Virgina Beach, 5th Special Forces Group in Kentucky, 3rd Special Forces Group in North Carolina as well as the Raiders out of Camp Lejune, and the list goes on.  To get a better sense of the East Coast distribution, which is a little busier than the West Coast map, I provided the following zoomed-in image:
